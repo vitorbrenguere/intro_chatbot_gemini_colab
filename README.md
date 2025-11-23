@@ -1,2 +1,3 @@
 # intro_chatbot_gemini_colab
-Aprendendo a criar um Chatbot com Google Gemini
+Aprendendo a conectar a IA do Google com Python no Colab
+Criando um Chatbot com Python e a IA Gemini
